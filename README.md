@@ -1,2 +1,2 @@
 # FengZikaiSDXLImages
-[1](ComfyUI_00481_.png)
+![1](ComfyUI_00481_.png)
